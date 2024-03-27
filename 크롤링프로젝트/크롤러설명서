@@ -1,0 +1,13 @@
+1. vscode로 실행.
+
+
+2. 설치라이브러리
+pip install pandas
+pip install selenium
+pip install webdriver-manager
+pip install beautifulsoup4
+pip install openai
+
+3. 개인 api_key 발급 후 입력.
+
+4. 파일 우클릭 후 엑셀로 열어야함.
